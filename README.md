@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Firebird-red?logoColor=#EE2224)
 ![Static Badge](https://img.shields.io/badge/SQLServer-darkred?logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgzz01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGzz01&layout=compact)
 
 ## Contacta conmigo
 
