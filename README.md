@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola, bienvenido a mi perfil de Github!👋
 
 ---
 
@@ -13,3 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/MariaDb-darkblue?logo=MariaDb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebird-red?logoColor=#EE2224)
 ![Static Badge](https://img.shields.io/badge/SQLServer-darkred?logoColor=white)
+
+## Contacta conmigo
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresgzz01/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:andresgilgonzalez@outlook.com)
