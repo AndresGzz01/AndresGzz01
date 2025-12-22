@@ -1,6 +1,9 @@
 ## ¡Hola, bienvenido a mi perfil de Github!👋
 
----
+- Actualmente trabajo en [Expres57](https://express57.mx/) como desarrollador de software.
+- Escribo acerca de tecnología en mi [Blog](https://andresgilglz.dev/).
+- Me gustaria seguir creciendo como desarrollador Backend, seguridad y explorar nuevos lenguajes.
+- Mis hobbies son 🧑‍💻 🎮 🏋️‍♂️
 
 ## Tecnologías 📋
 
@@ -13,6 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/MariaDb-darkblue?logo=MariaDb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebird-red?logoColor=#EE2224)
 ![Static Badge](https://img.shields.io/badge/SQLServer-darkred?logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgzz01&layout=compact)
 
 ## Contacta conmigo
 
