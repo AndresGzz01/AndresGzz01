@@ -17,4 +17,4 @@
 ## Contacta conmigo
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresgzz01/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:andresgilgonzalez@outlook.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:andresgilgonzalez@outlook.com)
