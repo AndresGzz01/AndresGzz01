@@ -21,3 +21,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresgzz01/)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:andresgilgonzalez@outlook.com)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AndresGzz01&layout=compact)
